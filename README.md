@@ -1,5 +1,7 @@
 # DiVeritas bot
 
+Бот в Telegram: [@DiVeritas_bot](https://t.me/DiVeritas_bot)
+
 Telegram-бот на [tgcloud](https://tgcloud.ai): сохраняет всех, кто когда-либо писал боту, ведёт историю переписки и даёт администратору команды для просмотра и рассылки.
 
 ## Возможности
